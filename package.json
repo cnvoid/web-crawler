@@ -1,0 +1,18 @@
+{
+  "name": "apilab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "puppeteer": "^1.20.0",
+    "reqest": "0.0.1-security",
+    "request": "^2.88.2",
+    "xlsx": "^0.14.3"
+  }
+}
